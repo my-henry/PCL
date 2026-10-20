@@ -8,8 +8,12 @@
 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！<br/>
 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。<br/>
 非常感谢社区的大力支持！
-
 <br/>
+### 变动
+- 解除了下载游戏本体限制 <br/>
+  Public Const RestrictMcDownload As Boolean = False <br/>
+### 下载
+- https://github.com/my-henry/PCL/actions/runs/39405688952
 
 ### 相关资源
 - [PCL 下载](https://meloong.com/pcl)：下载可免费使用的正式版 PCL！
